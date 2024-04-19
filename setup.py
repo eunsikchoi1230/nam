@@ -22,7 +22,7 @@ setup(
         "numpy",
         "pandas",
         "loguru",
-        "ray",
+        "ray>=1.0.0,<2.0.0",
     ],
     classifiers=[
         "Programming Language :: Python :: 3.6",
